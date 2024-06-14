@@ -1,5 +1,5 @@
 # Sportsbetting and Analytics (WIP)
-As a life-long tennis player, gym-rat, and general sports-lover who likes writing Python code and is interested in algorithmic sportsbetting, I've put together this repo to share my insights and analyses.
+As a life-long tennis player, gym-rat, and general sports-lover interested in algorithmic sportsbetting, I've put together this repo to share my insights and analyses.
 
 ## +EV betting bot for UnderdogFantasy
 > *+EV (positive expected value) betting* involves placing bets where the long-term expected return is greater than the amount wagered, based on the probability of the outcome and the payout offered.
